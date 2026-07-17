@@ -18,6 +18,20 @@ This project analyzes retail customer shopping behavior using SQL, PostgreSQL, a
 
 - Customer Shopping Behavior Dataset
 - 3,900 Records
+
+
+---
+
+## 📷 Dashboard Preview
+
+![Retail Sales & Customer Insights Dashboard](Retail_Sales_Customer_Insights_Dashboard.png)
+
+
+
+
+
+
+
 - 18 Columns
 
 ---
