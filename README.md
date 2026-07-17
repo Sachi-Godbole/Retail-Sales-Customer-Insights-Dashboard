@@ -27,12 +27,12 @@ The dashboard enables users to explore customer purchasing patterns, revenue tre
 
 ## 📂 Dataset
 
-- **Dataset:** Customer Shopping Behavior Dataset (Public Dataset)
+- **Dataset:** Customer Shopping Behavior Dataset
+- **Source:** Public dataset provided through a YouTube tutorial resource
 - **Records:** 3,900
 - **Columns:** 18
 
 The dataset includes customer demographics, purchase amounts, product categories, review ratings, payment methods, shipping types, subscription status, discounts, and purchase history.
-
 ---
 
 ## 📈 Dashboard Features
